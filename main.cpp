@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:book
+//  action 1: the book provide education.
+book.provideEducation();
+//  action 2:the book rests on a shelf.
+book.restOnaShelf();
+//  action 3:the book takes up space.
+book.takesUpSpace();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:laptop
+//  action 1:the laptop does the calculations.
+laptop.doesTheCalculations();
+//  action 2:the laptop displays on screen.
+laptop.displaysOnScreen();
+//  action 3:the laptop supports presentation.
+laptop.supportsPresentation();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:cloth
+//  action 1:the cloth fades.
+cloth.fades();
+//  action 2:the cloth warms the people.
+cloth.warmsThePeople();
+//  action 3:the cloth protectas against injury.
+cloth.protectasAgainstInjury();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:piano
+//  action 1:the piano makes sound.
+piano.makesSound();
+//  action 2:the piano inspires people.
+piano.inspiresPeople();
+//  action 3:the piano annoys neighbors.
+piano.annoysNeighbors();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:humanResources
+//  action 1:the human resources hire people.
+humanResources.hirePeople();
+//  action 2:the human resources introduce their company.
+huamnResources.introduceTheirCompany();
+//  action 3:the human grows up.
+humanResources.evaluatePeople();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:car 
+//  action 1:the car consumes gasoline.
+car.consumeGasoline();
+//  action 2:the car runs.
+car.runs();
+//  action 3:the car carries people.
+car.carriesPeople();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:music
+//  action 1:the music connects people.
+music.connectsPeople(); 
+//  action 2:the music transcends borders.
+music.transcendsBorders();
+//  action 3:the music heals people.
+music.healsPeople();
 //  8)
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  action 1:the earth rotates.
+earth.rotates();
+//  action 2:the earth turns.
+earth.turns();
+//  action 3:the earth produces water.
+earth.producesWater();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:goverment
+//  action 1:The government sets up the infrastructure.
+goverment.setUpTheInfrastructure();
+//  action 2:The government heplps people.
+goverment.helpsPeople();
+//  action 3:The government makes the rules.
+goverment.makesTheRules();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:religion.
+//  action 1:the religion provides salvation.
+religion.providesSalvation();
+//  action 2:the religion provides the answer.
+religion.providesTheAnswer();
+//  action 3:the religion provides takes your money.
+religion.takesYourMoney();
 
 
 #endif
