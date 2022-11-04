@@ -84,13 +84,13 @@ piano.inspiresPeople();
 //  action 3:the piano annoys neighbors.
 piano.annoysNeighbors();
 //  5)
-//  Noun:human 
-//  action 1:the human sleeps.
-human.sleeps();
-//  action 2:the human eats.
-huamn.eats();
+//  Noun:humanResources
+//  action 1:the human resources hire people.
+humanResources.hirePeople();
+//  action 2:the human resources introduce their company.
+huamnResources.introduceTheirCompany();
 //  action 3:the human grows up.
-human.growsUp();
+humanResources.evaluatePeople();
 //  6)
 //  Noun:car 
 //  action 1:the car consumes gasoline.
@@ -110,7 +110,7 @@ music.healsPeople();
 //  8)
 //  Noun:
 //  action 1:the earth rotates.
-earth.ratates();
+earth.rotates();
 //  action 2:the earth turns.
 earth.turns();
 //  action 3:the earth produces water.
